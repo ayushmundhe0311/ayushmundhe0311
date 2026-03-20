@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Ayush Mundhe
 
-<!--
-**ayushmundhe0311/ayushmundhe0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineer | GenAI • RAG • LLMs | VIIT Pune 2025
 
-Here are some ideas to get you started:
+I build AI systems that work on real data — not just demo notebooks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently building:**
+- LangGraph-based agents with tool use and memory
+- FastAPI wrappers for production LLM deployment
+
+**Notable projects:**
+- [Nyaya.GPT](link) — RAG pipeline over Indian legal corpora (LangChain + FAISS + Gemini API) — 95% response relevance
+- [SentInvest](link) — Hybrid LSTM + FinBERT stock signal predictor for Indian markets — 85% accuracy
+
+**Tech stack:**
+`Python` `LangChain` `FAISS` `HuggingFace` `TensorFlow` `YOLOv8` `SQL` `AWS` `Streamlit`
+
+**Currently learning:** LangGraph • FastAPI • MLflow • Fine-tuning (LoRA)
+
+📫 ayushmundhe5@gmail.com | [LinkedIn](https://www.linkedin.com/in/ayushmundhe/)
